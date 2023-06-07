@@ -48,8 +48,8 @@ Calculator App developed with React and Typescript
 
 
 ### Built With
-
-* [![TypeScript][https://img.shields.io/badge/typescript-646CFF?style=for-the-badge&logo=typescript&logoColor=1a1a1a]][https://www.typescriptlang.org/]
+* [![React][React.js]][React-url]
+* [![Typescript][https://img.shields.io/badge/typescript-646CFF?style=for-the-badge&logo=typescript&logoColor=1a1a1a]][https://www.typescriptlang.org/]
 * [![React][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]][https://reactjs.org/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
