@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gospel-c/gospel-c.github.io">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/project-logo.png" alt="Logo" width="120" height="180">
   </a>
 
 <h3 align="center">Calculator App</h3>
